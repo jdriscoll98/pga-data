@@ -1,0 +1,1327 @@
+{
+  "predictions": [
+    {
+      "rank": 1,
+      "player": "H\u00f8jgaard, Rasmus",
+      "score": 78.5,
+      "probabilities": {
+        "win": 7.3,
+        "top_5": 36.7,
+        "top_10": 73.4
+      }
+    },
+    {
+      "rank": 2,
+      "player": "Mullinax, Trey",
+      "score": 77.9,
+      "probabilities": {
+        "win": 6.4,
+        "top_5": 32.2,
+        "top_10": 64.4
+      }
+    },
+    {
+      "rank": 3,
+      "player": "Smalley, Alex",
+      "score": 77.5,
+      "probabilities": {
+        "win": 5.9,
+        "top_5": 29.6,
+        "top_10": 59.2
+      }
+    },
+    {
+      "rank": 4,
+      "player": "Hall, Harry",
+      "score": 75.7,
+      "probabilities": {
+        "win": 4.1,
+        "top_5": 20.7,
+        "top_10": 41.3
+      }
+    },
+    {
+      "rank": 5,
+      "player": "McNealy, Maverick",
+      "score": 74.6,
+      "probabilities": {
+        "win": 3.3,
+        "top_5": 16.7,
+        "top_10": 33.5
+      }
+    },
+    {
+      "rank": 6,
+      "player": "Bhatia, Akshay",
+      "score": 73.8,
+      "probabilities": {
+        "win": 2.8,
+        "top_5": 14.1,
+        "top_10": 28.1
+      }
+    },
+    {
+      "rank": 7,
+      "player": "Suber, Jackson",
+      "score": 73.5,
+      "probabilities": {
+        "win": 2.7,
+        "top_5": 13.4,
+        "top_10": 26.8
+      }
+    },
+    {
+      "rank": 8,
+      "player": "H\u00f8jgaard, Nicolai",
+      "score": 73.3,
+      "probabilities": {
+        "win": 2.6,
+        "top_5": 12.9,
+        "top_10": 25.8
+      }
+    },
+    {
+      "rank": 9,
+      "player": "Kohles, Ben",
+      "score": 73.0,
+      "probabilities": {
+        "win": 2.4,
+        "top_5": 12.1,
+        "top_10": 24.2
+      }
+    },
+    {
+      "rank": 10,
+      "player": "Svensson, Jesper",
+      "score": 72.9,
+      "probabilities": {
+        "win": 2.4,
+        "top_5": 11.8,
+        "top_10": 23.7
+      }
+    },
+    {
+      "rank": 11,
+      "player": "Jaeger, Stephan",
+      "score": 72.6,
+      "probabilities": {
+        "win": 2.2,
+        "top_5": 11.2,
+        "top_10": 22.3
+      }
+    },
+    {
+      "rank": 12,
+      "player": "Roy, Kevin",
+      "score": 72.2,
+      "probabilities": {
+        "win": 2.0,
+        "top_5": 10.2,
+        "top_10": 20.5
+      }
+    },
+    {
+      "rank": 13,
+      "player": "Stevens, Sam",
+      "score": 72.0,
+      "probabilities": {
+        "win": 2.0,
+        "top_5": 10.0,
+        "top_10": 20.0
+      }
+    },
+    {
+      "rank": 14,
+      "player": "Molinari, Francesco",
+      "score": 71.6,
+      "probabilities": {
+        "win": 1.8,
+        "top_5": 9.1,
+        "top_10": 18.3
+      }
+    },
+    {
+      "rank": 15,
+      "player": "Gerard, Ryan",
+      "score": 71.4,
+      "probabilities": {
+        "win": 1.8,
+        "top_5": 8.8,
+        "top_10": 17.5
+      }
+    },
+    {
+      "rank": 16,
+      "player": "Rai, Aaron",
+      "score": 71.2,
+      "probabilities": {
+        "win": 1.7,
+        "top_5": 8.4,
+        "top_10": 16.9
+      }
+    },
+    {
+      "rank": 17,
+      "player": "Chandler, Will",
+      "score": 71.1,
+      "probabilities": {
+        "win": 1.7,
+        "top_5": 8.4,
+        "top_10": 16.7
+      }
+    },
+    {
+      "rank": 18,
+      "player": "Putnam, Andrew",
+      "score": 70.9,
+      "probabilities": {
+        "win": 1.6,
+        "top_5": 7.9,
+        "top_10": 15.9
+      }
+    },
+    {
+      "rank": 19,
+      "player": "Ryder, Sam",
+      "score": 70.9,
+      "probabilities": {
+        "win": 1.6,
+        "top_5": 7.9,
+        "top_10": 15.8
+      }
+    },
+    {
+      "rank": 20,
+      "player": "Ventura, Kris",
+      "score": 70.7,
+      "probabilities": {
+        "win": 1.5,
+        "top_5": 7.6,
+        "top_10": 15.2
+      }
+    },
+    {
+      "rank": 21,
+      "player": "Kim, Michael",
+      "score": 70.6,
+      "probabilities": {
+        "win": 1.5,
+        "top_5": 7.5,
+        "top_10": 15.0
+      }
+    },
+    {
+      "rank": 22,
+      "player": "Peterson, Paul",
+      "score": 70.1,
+      "probabilities": {
+        "win": 1.4,
+        "top_5": 6.8,
+        "top_10": 13.6
+      }
+    },
+    {
+      "rank": 23,
+      "player": "Yu, Kevin",
+      "score": 70.1,
+      "probabilities": {
+        "win": 1.3,
+        "top_5": 6.7,
+        "top_10": 13.4
+      }
+    },
+    {
+      "rank": 24,
+      "player": "N\u00f8rgaard, Niklas",
+      "score": 69.8,
+      "probabilities": {
+        "win": 1.3,
+        "top_5": 6.4,
+        "top_10": 12.9
+      }
+    },
+    {
+      "rank": 25,
+      "player": "Manassero, Matteo",
+      "score": 69.3,
+      "probabilities": {
+        "win": 1.1,
+        "top_5": 5.7,
+        "top_10": 11.5
+      }
+    },
+    {
+      "rank": 26,
+      "player": "Campbell, Brian",
+      "score": 69.2,
+      "probabilities": {
+        "win": 1.1,
+        "top_5": 5.7,
+        "top_10": 11.3
+      }
+    },
+    {
+      "rank": 27,
+      "player": "Norrman, Vincent",
+      "score": 69.1,
+      "probabilities": {
+        "win": 1.1,
+        "top_5": 5.5,
+        "top_10": 11.1
+      }
+    },
+    {
+      "rank": 28,
+      "player": "Lower, Justin",
+      "score": 69.0,
+      "probabilities": {
+        "win": 1.1,
+        "top_5": 5.4,
+        "top_10": 10.8
+      }
+    },
+    {
+      "rank": 29,
+      "player": "Pan, C.T.",
+      "score": 68.8,
+      "probabilities": {
+        "win": 1.0,
+        "top_5": 5.2,
+        "top_10": 10.4
+      }
+    },
+    {
+      "rank": 30,
+      "player": "Kitayama, Kurt",
+      "score": 68.3,
+      "probabilities": {
+        "win": 1.0,
+        "top_5": 4.8,
+        "top_10": 9.5
+      }
+    },
+    {
+      "rank": 31,
+      "player": "Svensson, Adam",
+      "score": 68.3,
+      "probabilities": {
+        "win": 0.9,
+        "top_5": 4.7,
+        "top_10": 9.4
+      }
+    },
+    {
+      "rank": 32,
+      "player": "Castillo, Ricky",
+      "score": 68.0,
+      "probabilities": {
+        "win": 0.9,
+        "top_5": 4.5,
+        "top_10": 9.0
+      }
+    },
+    {
+      "rank": 33,
+      "player": "Moore, Taylor",
+      "score": 68.0,
+      "probabilities": {
+        "win": 0.9,
+        "top_5": 4.5,
+        "top_10": 8.9
+      }
+    },
+    {
+      "rank": 34,
+      "player": "Xiong, Norman",
+      "score": 68.0,
+      "probabilities": {
+        "win": 0.9,
+        "top_5": 4.4,
+        "top_10": 8.8
+      }
+    },
+    {
+      "rank": 35,
+      "player": "Riedel, Matthew",
+      "score": 67.9,
+      "probabilities": {
+        "win": 0.9,
+        "top_5": 4.4,
+        "top_10": 8.7
+      }
+    },
+    {
+      "rank": 36,
+      "player": "Young, Carson",
+      "score": 67.9,
+      "probabilities": {
+        "win": 0.9,
+        "top_5": 4.3,
+        "top_10": 8.7
+      }
+    },
+    {
+      "rank": 37,
+      "player": "Bridgeman, Jacob",
+      "score": 67.7,
+      "probabilities": {
+        "win": 0.8,
+        "top_5": 4.2,
+        "top_10": 8.3
+      }
+    },
+    {
+      "rank": 38,
+      "player": "Perez, Victor",
+      "score": 67.7,
+      "probabilities": {
+        "win": 0.8,
+        "top_5": 4.2,
+        "top_10": 8.3
+      }
+    },
+    {
+      "rank": 39,
+      "player": "Martin, Ben",
+      "score": 67.6,
+      "probabilities": {
+        "win": 0.8,
+        "top_5": 4.1,
+        "top_10": 8.1
+      }
+    },
+    {
+      "rank": 40,
+      "player": "Hossler, Beau",
+      "score": 67.4,
+      "probabilities": {
+        "win": 0.8,
+        "top_5": 3.9,
+        "top_10": 7.9
+      }
+    },
+    {
+      "rank": 41,
+      "player": "Silverman, Ben",
+      "score": 67.3,
+      "probabilities": {
+        "win": 0.8,
+        "top_5": 3.9,
+        "top_10": 7.8
+      }
+    },
+    {
+      "rank": 42,
+      "player": "Griffin, Ben",
+      "score": 67.1,
+      "probabilities": {
+        "win": 0.7,
+        "top_5": 3.7,
+        "top_10": 7.4
+      }
+    },
+    {
+      "rank": 43,
+      "player": "Knapp, Jake",
+      "score": 67.0,
+      "probabilities": {
+        "win": 0.7,
+        "top_5": 3.7,
+        "top_10": 7.4
+      }
+    },
+    {
+      "rank": 44,
+      "player": "van Rooyen, Erik",
+      "score": 66.8,
+      "probabilities": {
+        "win": 0.7,
+        "top_5": 3.5,
+        "top_10": 7.1
+      }
+    },
+    {
+      "rank": 45,
+      "player": "Sigg, Greyson",
+      "score": 66.8,
+      "probabilities": {
+        "win": 0.7,
+        "top_5": 3.5,
+        "top_10": 7.0
+      }
+    },
+    {
+      "rank": 46,
+      "player": "Meissner, Mac",
+      "score": 66.7,
+      "probabilities": {
+        "win": 0.7,
+        "top_5": 3.4,
+        "top_10": 6.9
+      }
+    },
+    {
+      "rank": 47,
+      "player": "Lashley, Nate",
+      "score": 66.7,
+      "probabilities": {
+        "win": 0.7,
+        "top_5": 3.4,
+        "top_10": 6.8
+      }
+    },
+    {
+      "rank": 48,
+      "player": "Dahmen, Joel",
+      "score": 66.5,
+      "probabilities": {
+        "win": 0.7,
+        "top_5": 3.3,
+        "top_10": 6.6
+      }
+    },
+    {
+      "rank": 49,
+      "player": "Coody, Pierceson",
+      "score": 66.3,
+      "probabilities": {
+        "win": 0.6,
+        "top_5": 3.2,
+        "top_10": 6.4
+      }
+    },
+    {
+      "rank": 50,
+      "player": "Paul, Jeremy",
+      "score": 66.2,
+      "probabilities": {
+        "win": 0.6,
+        "top_5": 3.1,
+        "top_10": 6.2
+      }
+    },
+    {
+      "rank": 51,
+      "player": "Hoffman, Charley",
+      "score": 66.0,
+      "probabilities": {
+        "win": 0.6,
+        "top_5": 3.0,
+        "top_10": 6.0
+      }
+    },
+    {
+      "rank": 52,
+      "player": "Gotterup, Chris",
+      "score": 65.5,
+      "probabilities": {
+        "win": 0.5,
+        "top_5": 2.7,
+        "top_10": 5.4
+      }
+    },
+    {
+      "rank": 53,
+      "player": "Fishburn, Patrick",
+      "score": 65.4,
+      "probabilities": {
+        "win": 0.5,
+        "top_5": 2.6,
+        "top_10": 5.3
+      }
+    },
+    {
+      "rank": 54,
+      "player": "Kanaya, Takumi",
+      "score": 65.2,
+      "probabilities": {
+        "win": 0.5,
+        "top_5": 2.5,
+        "top_10": 5.1
+      }
+    },
+    {
+      "rank": 55,
+      "player": "List, Luke",
+      "score": 64.9,
+      "probabilities": {
+        "win": 0.5,
+        "top_5": 2.4,
+        "top_10": 4.8
+      }
+    },
+    {
+      "rank": 56,
+      "player": "Olesen, Thorbj\u00f8rn",
+      "score": 64.6,
+      "probabilities": {
+        "win": 0.4,
+        "top_5": 2.2,
+        "top_10": 4.5
+      }
+    },
+    {
+      "rank": 57,
+      "player": "Capan III, Frankie",
+      "score": 64.5,
+      "probabilities": {
+        "win": 0.4,
+        "top_5": 2.2,
+        "top_10": 4.4
+      }
+    },
+    {
+      "rank": 58,
+      "player": "Griffin, Lanto",
+      "score": 64.4,
+      "probabilities": {
+        "win": 0.4,
+        "top_5": 2.2,
+        "top_10": 4.3
+      }
+    },
+    {
+      "rank": 59,
+      "player": "Kizzire, Patton",
+      "score": 64.1,
+      "probabilities": {
+        "win": 0.4,
+        "top_5": 2.0,
+        "top_10": 4.0
+      }
+    },
+    {
+      "rank": 60,
+      "player": "Kim, Chan",
+      "score": 63.8,
+      "probabilities": {
+        "win": 0.4,
+        "top_5": 1.9,
+        "top_10": 3.8
+      }
+    },
+    {
+      "rank": 61,
+      "player": "Gordon, Will",
+      "score": 63.8,
+      "probabilities": {
+        "win": 0.4,
+        "top_5": 1.9,
+        "top_10": 3.8
+      }
+    },
+    {
+      "rank": 62,
+      "player": "Potgieter, Aldrich",
+      "score": 63.5,
+      "probabilities": {
+        "win": 0.4,
+        "top_5": 1.8,
+        "top_10": 3.6
+      }
+    },
+    {
+      "rank": 63,
+      "player": "Walker, Danny",
+      "score": 63.2,
+      "probabilities": {
+        "win": 0.3,
+        "top_5": 1.7,
+        "top_10": 3.4
+      }
+    },
+    {
+      "rank": 64,
+      "player": "Valimaki, Sami",
+      "score": 62.9,
+      "probabilities": {
+        "win": 0.3,
+        "top_5": 1.6,
+        "top_10": 3.2
+      }
+    },
+    {
+      "rank": 65,
+      "player": "Bryan, Wesley",
+      "score": 62.3,
+      "probabilities": {
+        "win": 0.3,
+        "top_5": 1.4,
+        "top_10": 2.8
+      }
+    },
+    {
+      "rank": 66,
+      "player": "McGreevy, Max",
+      "score": 62.1,
+      "probabilities": {
+        "win": 0.3,
+        "top_5": 1.4,
+        "top_10": 2.7
+      }
+    },
+    {
+      "rank": 67,
+      "player": "Blair, Zac",
+      "score": 62.1,
+      "probabilities": {
+        "win": 0.3,
+        "top_5": 1.4,
+        "top_10": 2.7
+      }
+    },
+    {
+      "rank": 68,
+      "player": "Hisatsune, Ryo",
+      "score": 62.0,
+      "probabilities": {
+        "win": 0.3,
+        "top_5": 1.3,
+        "top_10": 2.7
+      }
+    },
+    {
+      "rank": 69,
+      "player": "Tway, Kevin",
+      "score": 62.0,
+      "probabilities": {
+        "win": 0.3,
+        "top_5": 1.3,
+        "top_10": 2.7
+      }
+    },
+    {
+      "rank": 70,
+      "player": "Hardy, Nick",
+      "score": 61.7,
+      "probabilities": {
+        "win": 0.3,
+        "top_5": 1.3,
+        "top_10": 2.5
+      }
+    },
+    {
+      "rank": 71,
+      "player": "Schmid, Matti",
+      "score": 61.7,
+      "probabilities": {
+        "win": 0.3,
+        "top_5": 1.3,
+        "top_10": 2.5
+      }
+    },
+    {
+      "rank": 72,
+      "player": "Tosti, Alejandro",
+      "score": 61.6,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 1.2,
+        "top_10": 2.5
+      }
+    },
+    {
+      "rank": 73,
+      "player": "Lee, K.H.",
+      "score": 61.6,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 1.2,
+        "top_10": 2.5
+      }
+    },
+    {
+      "rank": 74,
+      "player": "Hoshino, Rikuya",
+      "score": 61.5,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 1.2,
+        "top_10": 2.4
+      }
+    },
+    {
+      "rank": 75,
+      "player": "Skinns, David",
+      "score": 61.4,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 1.2,
+        "top_10": 2.4
+      }
+    },
+    {
+      "rank": 76,
+      "player": "Montgomery, Taylor",
+      "score": 61.4,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 1.2,
+        "top_10": 2.4
+      }
+    },
+    {
+      "rank": 77,
+      "player": "Norlander, Henrik",
+      "score": 61.3,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 1.2,
+        "top_10": 2.3
+      }
+    },
+    {
+      "rank": 78,
+      "player": "McCarty, Matt",
+      "score": 61.2,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 1.1,
+        "top_10": 2.3
+      }
+    },
+    {
+      "rank": 79,
+      "player": "Yuan, Carl",
+      "score": 61.2,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 1.1,
+        "top_10": 2.3
+      }
+    },
+    {
+      "rank": 80,
+      "player": "Fox, Ryan",
+      "score": 61.1,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 1.1,
+        "top_10": 2.2
+      }
+    },
+    {
+      "rank": 81,
+      "player": "Brown, Blades",
+      "score": 61.1,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 1.1,
+        "top_10": 2.2
+      }
+    },
+    {
+      "rank": 82,
+      "player": "Cummins, Quade",
+      "score": 61.0,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 1.1,
+        "top_10": 2.2
+      }
+    },
+    {
+      "rank": 83,
+      "player": "Springer, Hayden",
+      "score": 60.8,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 1.0,
+        "top_10": 2.1
+      }
+    },
+    {
+      "rank": 84,
+      "player": "Thornberry, Braden",
+      "score": 60.6,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 1.0,
+        "top_10": 2.0
+      }
+    },
+    {
+      "rank": 85,
+      "player": "Salinda, Isaiah",
+      "score": 60.3,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 0.9,
+        "top_10": 1.9
+      }
+    },
+    {
+      "rank": 86,
+      "player": "Lipsky, David",
+      "score": 60.2,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 0.9,
+        "top_10": 1.9
+      }
+    },
+    {
+      "rank": 87,
+      "player": "Dumont de Chassart, Adrien",
+      "score": 60.1,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 0.9,
+        "top_10": 1.8
+      }
+    },
+    {
+      "rank": 88,
+      "player": "Rodgers, Patrick",
+      "score": 59.9,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 0.9,
+        "top_10": 1.8
+      }
+    },
+    {
+      "rank": 89,
+      "player": "Hoey, Rico",
+      "score": 59.8,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 0.9,
+        "top_10": 1.7
+      }
+    },
+    {
+      "rank": 90,
+      "player": "Whaley, Vince",
+      "score": 59.4,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 0.8,
+        "top_10": 1.6
+      }
+    },
+    {
+      "rank": 91,
+      "player": "Higgo, Garrick",
+      "score": 59.2,
+      "probabilities": {
+        "win": 0.2,
+        "top_5": 0.8,
+        "top_10": 1.5
+      }
+    },
+    {
+      "rank": 92,
+      "player": "Thorbjornsen, Michael",
+      "score": 59.1,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.7,
+        "top_10": 1.5
+      }
+    },
+    {
+      "rank": 93,
+      "player": "Ramey, Chad",
+      "score": 59.0,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.7,
+        "top_10": 1.5
+      }
+    },
+    {
+      "rank": 94,
+      "player": "Higgs, Harry",
+      "score": 58.8,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.7,
+        "top_10": 1.4
+      }
+    },
+    {
+      "rank": 95,
+      "player": "McCumber, Tyler",
+      "score": 58.5,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.7,
+        "top_10": 1.3
+      }
+    },
+    {
+      "rank": 96,
+      "player": "Andersen, Mason",
+      "score": 58.2,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.6,
+        "top_10": 1.3
+      }
+    },
+    {
+      "rank": 97,
+      "player": "Highsmith, Joe",
+      "score": 58.0,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.6,
+        "top_10": 1.2
+      }
+    },
+    {
+      "rank": 98,
+      "player": "Rosenmueller, Thomas",
+      "score": 57.4,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.5,
+        "top_10": 1.1
+      }
+    },
+    {
+      "rank": 99,
+      "player": "Waring, Paul",
+      "score": 57.2,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.5,
+        "top_10": 1.0
+      }
+    },
+    {
+      "rank": 100,
+      "player": "Goodwin, Noah",
+      "score": 56.6,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.5,
+        "top_10": 0.9
+      }
+    },
+    {
+      "rank": 101,
+      "player": "Onishi, Kaito",
+      "score": 56.6,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.5,
+        "top_10": 0.9
+      }
+    },
+    {
+      "rank": 102,
+      "player": "Rozner, Antoine",
+      "score": 56.5,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.4,
+        "top_10": 0.9
+      }
+    },
+    {
+      "rank": 103,
+      "player": "Wallace, Matt",
+      "score": 55.8,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.4,
+        "top_10": 0.8
+      }
+    },
+    {
+      "rank": 104,
+      "player": "Baddeley, Aaron",
+      "score": 55.4,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.4,
+        "top_10": 0.7
+      }
+    },
+    {
+      "rank": 105,
+      "player": "Albertson, Anders",
+      "score": 55.3,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.4,
+        "top_10": 0.7
+      }
+    },
+    {
+      "rank": 106,
+      "player": "Phillips, Chandler",
+      "score": 55.3,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.4,
+        "top_10": 0.7
+      }
+    },
+    {
+      "rank": 107,
+      "player": "Campos, Rafael",
+      "score": 55.1,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.3,
+        "top_10": 0.7
+      }
+    },
+    {
+      "rank": 108,
+      "player": "Palmer, Ryan",
+      "score": 55.0,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.3,
+        "top_10": 0.7
+      }
+    },
+    {
+      "rank": 109,
+      "player": "Fisk, Steven",
+      "score": 55.0,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.3,
+        "top_10": 0.7
+      }
+    },
+    {
+      "rank": 110,
+      "player": "Mouw, William",
+      "score": 54.5,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.3,
+        "top_10": 0.6
+      }
+    },
+    {
+      "rank": 111,
+      "player": "Del Solar, Cristobal",
+      "score": 54.5,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.3,
+        "top_10": 0.6
+      }
+    },
+    {
+      "rank": 112,
+      "player": "Dickson, Taylor",
+      "score": 54.5,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.3,
+        "top_10": 0.6
+      }
+    },
+    {
+      "rank": 113,
+      "player": "Wu, Dylan",
+      "score": 53.8,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.3,
+        "top_10": 0.5
+      }
+    },
+    {
+      "rank": 114,
+      "player": "Malnati, Peter",
+      "score": 53.7,
+      "probabilities": {
+        "win": 0.1,
+        "top_5": 0.3,
+        "top_10": 0.5
+      }
+    },
+    {
+      "rank": 115,
+      "player": "Velo, Kevin",
+      "score": 51.2,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.2,
+        "top_10": 0.3
+      }
+    },
+    {
+      "rank": 116,
+      "player": "Pak, John",
+      "score": 50.6,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.1,
+        "top_10": 0.3
+      }
+    },
+    {
+      "rank": 117,
+      "player": "Gifford, Luke",
+      "score": 50,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.1,
+        "top_10": 0.2
+      }
+    },
+    {
+      "rank": 118,
+      "player": "Hastings, Justin",
+      "score": 50,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.1,
+        "top_10": 0.2
+      }
+    },
+    {
+      "rank": 119,
+      "player": "Lewis, Riley",
+      "score": 50,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.1,
+        "top_10": 0.2
+      }
+    },
+    {
+      "rank": 120,
+      "player": "de la Fuente, Santiago",
+      "score": 48.7,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.1,
+        "top_10": 0.2
+      }
+    },
+    {
+      "rank": 121,
+      "player": "Widing, Tim",
+      "score": 48.3,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.1,
+        "top_10": 0.2
+      }
+    },
+    {
+      "rank": 122,
+      "player": "Cone, Trevor",
+      "score": 47.3,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.1,
+        "top_10": 0.1
+      }
+    },
+    {
+      "rank": 123,
+      "player": "Safa, Jose Antonio",
+      "score": 45.6,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.1,
+        "top_10": 0.1
+      }
+    },
+    {
+      "rank": 124,
+      "player": "Knowles, Philip",
+      "score": 44.0,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.0,
+        "top_10": 0.1
+      }
+    },
+    {
+      "rank": 125,
+      "player": "Buckley, Hayden",
+      "score": 43.3,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.0,
+        "top_10": 0.1
+      }
+    },
+    {
+      "rank": 126,
+      "player": "Ballester Barrio, Jose Luis",
+      "score": 41.5,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.0,
+        "top_10": 0.0
+      }
+    },
+    {
+      "rank": 127,
+      "player": "Riley, Davis",
+      "score": 41.0,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.0,
+        "top_10": 0.0
+      }
+    },
+    {
+      "rank": 128,
+      "player": "Lawrence, Thriston",
+      "score": 40.1,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.0,
+        "top_10": 0.0
+      }
+    },
+    {
+      "rank": 129,
+      "player": "Hadley, Chesson",
+      "score": 37.5,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.0,
+        "top_10": 0.0
+      }
+    },
+    {
+      "rank": 130,
+      "player": "Kim, S.H.",
+      "score": 22.9,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.0,
+        "top_10": 0.0
+      }
+    },
+    {
+      "rank": 131,
+      "player": "Droemer, Jesse",
+      "score": 13.3,
+      "probabilities": {
+        "win": 0.0,
+        "top_5": 0.0,
+        "top_10": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "total_players": 131,
+    "generation_date": "2025-02-18",
+    "weights_used": {
+      "SG: Total": 0.25,
+      "Birdie or Better Percentage": 0.15,
+      "Bogey Avoidance": 0.12,
+      "SG: Putting": 0.18,
+      "Greens in Regulation Percentage": 0.1,
+      "SG: Approach the Green": 0.12,
+      "SG: Off-the-Tee": 0.08
+    }
+  }
+}

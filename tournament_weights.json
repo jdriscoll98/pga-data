@@ -1,0 +1,105 @@
+{
+  "correlations": [
+    {
+      "stat": "SG: Total",
+      "correlation": -0.9523710916997284,
+      "abs_correlation": 0.9523710916997284
+    },
+    {
+      "stat": "Birdies",
+      "correlation": -0.6046634386746687,
+      "abs_correlation": 0.6046634386746687
+    },
+    {
+      "stat": "Bogeys",
+      "correlation": 0.5590237149613585,
+      "abs_correlation": 0.5590237149613585
+    },
+    {
+      "stat": "SG: Putting",
+      "correlation": -0.47532166985784524,
+      "abs_correlation": 0.47532166985784524
+    },
+    {
+      "stat": "Greens in Regulation",
+      "correlation": -0.44704758972304587,
+      "abs_correlation": 0.44704758972304587
+    },
+    {
+      "stat": "Putts per GIR",
+      "correlation": 0.4392680070475927,
+      "abs_correlation": 0.4392680070475927
+    },
+    {
+      "stat": "SG: Approach to Green",
+      "correlation": -0.4265085697895308,
+      "abs_correlation": 0.4265085697895308
+    },
+    {
+      "stat": "Feet of Putts Made",
+      "correlation": -0.4186360210282387,
+      "abs_correlation": 0.4186360210282387
+    },
+    {
+      "stat": "SG: Off The Tee",
+      "correlation": -0.39960727214540265,
+      "abs_correlation": 0.39960727214540265
+    },
+    {
+      "stat": "Scrambling",
+      "correlation": -0.3627645455417593,
+      "abs_correlation": 0.3627645455417593
+    }
+  ],
+  "top_10_averages": {
+    "SG: Off The Tee": 2.641,
+    "SG: Approach to Green": 3.621,
+    "SG: Around The Green": 0.878,
+    "SG: Putting": 3.41,
+    "SG: Total": 10.831,
+    "Driving Accuracy": 66.666,
+    "Driving Distance": 319.158,
+    "Longest Drive": 352.972,
+    "Greens in Regulation": 73.805,
+    "Sand Saves": 59.044,
+    "Scrambling": 66.916,
+    "Putts per GIR": 1.677,
+    "Eagles -": 0.871,
+    "Birdies": 20.75,
+    "Pars": 43.639,
+    "Bogeys": 6.389,
+    "Double Bogeys": 0.615,
+    "Feet of Putts Made": 73.583,
+    "Other": null
+  },
+  "overall_averages": {
+    "SG: Off The Tee": 0.64,
+    "SG: Approach to Green": 1.43,
+    "SG: Around The Green": 0.438,
+    "SG: Putting": 1.114,
+    "SG: Total": 3.778,
+    "Driving Accuracy": 64.523,
+    "Driving Distance": 311.142,
+    "Longest Drive": 348.5,
+    "Greens in Regulation": 69.065,
+    "Sand Saves": 54.057,
+    "Scrambling": 62.884,
+    "Putts per GIR": 1.729,
+    "Eagles -": 0.659,
+    "Birdies": 17.321,
+    "Pars": 44.594,
+    "Bogeys": 8.509,
+    "Double Bogeys": 1.099,
+    "Feet of Putts Made": 71.8,
+    "Other": 1.0
+  },
+  "metadata": {
+    "total_players": 212,
+    "years_analyzed": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "generation_date": "2025-02-18"
+  }
+}
