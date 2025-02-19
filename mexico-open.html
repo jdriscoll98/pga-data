@@ -22,37 +22,42 @@
         .header {
             background-color: #fff;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            padding: 0 20px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
         }
 
         .header-content {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 15px 0;
+            padding: 0;
         }
 
         .tab-container {
-            flex-grow: 1;
-            margin-right: 20px;
-            background: none;
-            box-shadow: none;
-            padding: 0;
+            width: 100%;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: none; /* Firefox */
+            -ms-overflow-style: none;  /* Internet Explorer 10+ */
+        }
+
+        /* Hide scrollbar for Chrome, Safari and Opera */
+        .tab-container::-webkit-scrollbar {
+            display: none;
         }
 
         .search-container {
             position: relative;
-            min-width: 300px;
+            margin: 15px;
         }
 
         .search-input {
             width: 100%;
-            padding: 8px 12px;
+            padding: 10px 12px;
             padding-left: 35px;
             border: 1px solid #ddd;
             border-radius: 4px;
             font-size: 14px;
             transition: border-color 0.3s;
+            box-sizing: border-box;
         }
 
         .search-input:focus {
@@ -76,10 +81,10 @@
         }
 
         .tabs {
-            display: flex;
-            gap: 10px;
-            overflow-x: auto;
-            padding: 15px 0;
+            display: inline-flex;
+            padding: 15px;
+            min-width: min-content;
+            gap: 8px;
             border-bottom: 1px solid #eee;
         }
 
@@ -92,6 +97,7 @@
             color: #666;
             border-radius: 4px;
             white-space: nowrap;
+            flex-shrink: 0;
         }
 
         .tab:hover {
@@ -376,6 +382,36 @@
             color: #888;
             font-size: 14px;
         }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 0;
+            }
+            
+            .header {
+                padding: 0;
+            }
+            
+            .tab {
+                padding: 8px 12px;
+                font-size: 14px;
+            }
+            
+            .search-container {
+                margin: 10px;
+            }
+            
+            .search-input {
+                font-size: 16px;
+                padding: 8px 12px 8px 35px;
+            }
+            
+            .analysis-container,
+            .predictions-container,
+            .field-container {
+                margin: 10px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -387,7 +423,7 @@
                         <button class="tab" onclick="showField()">Field</button>
                         <button class="tab" onclick="showPredictions()">Tournament Predictions</button>
                         <button class="tab" onclick="showAnalysis()">Tournament Analysis</button>
-                    </div>
+                </div>
                 </div>
             </div>
         </div>
@@ -531,7 +567,7 @@
                 `;
 
                 container.appendChild(yearSection);
-               
+
                 // Add search functionality for this section
                 const searchInput = yearSection.querySelector('.search-input');
                 const rows = yearSection.querySelectorAll('.clickable-row');
@@ -567,6 +603,32 @@
                         noResults.textContent = 'No players found';
                         yearSection.appendChild(noResults);
                     }
+                });
+
+                // Add click handlers for rows in this section
+                const clickableRows = yearSection.querySelectorAll('.clickable-row');
+                clickableRows.forEach(row => {
+                    row.addEventListener('click', function() {
+                        const wasActive = this.classList.contains('active');
+                        const expandedRow = this.nextElementSibling;
+                        
+                        // Close all expanded rows in this section
+                        yearSection.querySelectorAll('.clickable-row').forEach(r => r.classList.remove('active'));
+                        yearSection.querySelectorAll('.expanded-stats').forEach(r => {
+                            r.classList.remove('active');
+                            // Only hide if the row is visible (part of search results)
+                            if (r.previousElementSibling.style.display !== 'none') {
+                                r.style.display = 'none';
+                            }
+                        });
+                        
+                        // If the clicked row wasn't active before, expand it
+                        if (!wasActive) {
+                            this.classList.add('active');
+                            expandedRow.classList.add('active');
+                            expandedRow.style.display = 'table-row';
+                        }
+                    });
                 });
             });
         }
