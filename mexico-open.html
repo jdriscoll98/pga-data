@@ -420,10 +420,10 @@
             <div class="header-content">
                 <div class="tab-container">
                     <div class="tabs" id="yearTabs">
-                        <button class="tab" onclick="showField()">Field</button>
                         <button class="tab" onclick="showPredictions()">Tournament Predictions</button>
+                        <button class="tab" onclick="showField()">Field</button>
                         <button class="tab" onclick="showAnalysis()">Tournament Analysis</button>
-                </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -439,6 +439,7 @@
                 const response = await fetch('tournament_stats.json');
                 const data = await response.json();
                 displayTournamentStats(data);
+                showPredictions();
             } catch (error) {
                 console.error('Error loading tournament stats:', error);
             }
@@ -512,7 +513,7 @@
             // Create tabs
             years.forEach((year, index) => {
                 const tab = document.createElement('button');
-                tab.className = `tab ${index === 0 ? 'active' : ''}`;
+                tab.className = 'tab';
                 tab.textContent = `Mexico Open ${year}`;
                 tab.onclick = () => switchTab(year);
                 tabsContainer.appendChild(tab);
@@ -521,7 +522,7 @@
             // Create year sections
             years.forEach((year, index) => {
                 const yearSection = document.createElement('div');
-                yearSection.className = `year-section ${index === 0 ? 'active' : ''}`;
+                yearSection.className = 'year-section';
                 yearSection.id = `year-${year}`;
 
                 const leaderboard = data[year].leaderboard;
